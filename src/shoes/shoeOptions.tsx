@@ -14,6 +14,8 @@ import lebron16 from './lebron16';
 import lebron17 from './lebron17';
 import sidestrap from './sidestrap';
 import stringShoe from './stringShoe';
+import cortez1972 from './cortez1972';
+import blazer1973 from './blazer1973';
 
 export const shoeOptions = [
   airForceOne,
@@ -32,4 +34,6 @@ export const shoeOptions = [
   lebron17,
   airpenny2,
   kobeExodus,
+  cortez1972,
+  blazer1973
 ];

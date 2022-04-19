@@ -1,6 +1,7 @@
 import { createStyles, Grid } from '@mantine/core';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
+import { useMemo } from 'react';
 import { shoeOptions } from '../src/shoes/shoeOptions';
 
 const variants = {
@@ -34,9 +35,17 @@ const useStyles = createStyles((theme) => ({
 export const Shoes = () => {
   const { classes } = useStyles();
 
+  const sortedShoes = useMemo(() => {
+    const toBeSorted = [...shoeOptions];
+    toBeSorted.sort((a, b) => {
+      return a.released > b.released ? 1 : -1
+    })
+    return toBeSorted;
+  }, [])
+
   return (
     <Grid mx="10%" py={50} gutter={50}>
-      {shoeOptions.map(({ id, shoeImage }) => (
+      {sortedShoes.map(({ id, shoeImage, released }) => (
         <Grid.Col
           id={id}
           xl={3}
@@ -63,6 +72,9 @@ export const Shoes = () => {
               {shoeImage}
             </motion.div>
           </Link>
+          <div>
+            {released}
+          </div>
         </Grid.Col>
       ))}
     </Grid>

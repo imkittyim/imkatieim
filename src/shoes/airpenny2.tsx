@@ -8,7 +8,7 @@ const AirPenny2 = () => (
 
 export default {
   id: 'AirPenny2',
-  shoeName: 'AirPenny2',
+  shoeName: 'Air Penny 2',
   shoeImage: <AirPenny2 />,
   shoeDescription:
     'Heralded as high as the original model, the Air Penny 2 featured one of wildest designs of the mid-late 1990s, but that was the norm for Penny Hardaway as he was often used as a platform for Nike to boast Eric Avar’s most daring designs. It was a flawless continuation of that introductory model, eluding the sophomore slump thanks to the continued on with the help of Lil’ Penny.',

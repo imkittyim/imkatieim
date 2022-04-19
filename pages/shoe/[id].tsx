@@ -67,7 +67,7 @@ export default function ShoePage() {
       <Box sx={{ minWidth: 200, maxWidth: 500 }}>
         <Card shadow="sm" p="lg" sx={{ minHeight: 200 }}>
           <Group>
-            <Text weight={700}>{matchingShoe.shoeName}</Text>
+            <Text sx={{fontSize: 40}} weight={700}>{matchingShoe.shoeName}</Text>
           </Group>
 
           <Group position="apart" style={{ marginBottom: 5, marginTop: theme.spacing.sm }}>
@@ -79,6 +79,9 @@ export default function ShoePage() {
 
           <Text size="sm" style={{ color: secondaryColor, lineHeight: 1.5 }}>
             {matchingShoe.shoeDescription}
+          </Text>
+          <Text pt={10}>
+            <a href={`https://www.google.com/search?q=${matchingShoe.shoeName}&sxsrf=APq-WBshGPq3t6KkYk90UjJxEdZ22i_KTQ:1650407165371&source=lnms&tbm=shop&sa=X&ved=2ahUKEwixic7mlaH3AhW_j3IEHZ_vAvIQ_AUoAXoECAIQAw&biw=969&bih=620&dpr=2.5`}>Buy me!</a>
           </Text>
         </Card>
       </Box>
