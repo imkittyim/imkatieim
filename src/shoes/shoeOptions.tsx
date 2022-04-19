@@ -16,6 +16,7 @@ import sidestrap from './sidestrap';
 import stringShoe from './stringShoe';
 import cortez1972 from './cortez1972';
 import blazer1973 from './blazer1973';
+import airforceone1982 from './airforceone1982';
 
 export const shoeOptions = [
   airForceOne,
@@ -35,5 +36,6 @@ export const shoeOptions = [
   airpenny2,
   kobeExodus,
   cortez1972,
-  blazer1973
+  blazer1973,
+  airforceone1982
 ];
