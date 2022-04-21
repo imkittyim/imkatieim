@@ -9,10 +9,10 @@ export function Welcome() {
     <Box>
       <Title className={classes.title} align="center" mt={50}>
         {/* eslint-disable-next-line react/no-unescaped-entities */}
-        Hi there, I'm
+        Nike's Most Iconic Shoes
       </Title>
       <Text className={classes.title} align="center" variant="gradient">
-        KT IM
+        Just Do It 
       </Text>
       <Group pt={100} position="center" spacing="xl">
         <Jordan />
