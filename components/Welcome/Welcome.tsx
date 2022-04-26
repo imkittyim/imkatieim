@@ -24,19 +24,7 @@ export function Welcome() {
               color: theme.colorScheme === 'dark' ? theme.colors.pink[2] : theme.colors.dark[6],
             })}
           >
-            The reason why I love Nike is very simple: I trust Nike. It is very difficult for an
-            apparel or footwear company to build this kind of loyalty to its consumers. Nike is good
-            at lots of things: manufacturing high quality and good-looking shoes; designing fashion
-            or professional apparels; sponsoring lots of sports teams; and making tons of money. But
-            where the company truly excels is its marking. There is no company doing branding like
-            Nike. Nike dominates the sports gear industry because of their brilliant branding
-            strategies. Nike has made a wonderful impression by its outstanding advertisements. Many
-            established companies have rather timid advertising campaigns, preferring to rest on
-            their laurels and history of success. Nike is not one of those companies. Instead, it’s
-            constantly tinkering, innovating and pushing the envelope to create campaigns people
-            will talk about. Nike has never been afraid to take chances with its ad campaigns. The
-            company makes commercials you don’t forget. For example, Nike will focus on love,
-            impossible, greatness, future and so on.
+            This will be the intro text for the site. Talking about the years, how the site works, etc.
           </Card>
         </div>
       </Group>

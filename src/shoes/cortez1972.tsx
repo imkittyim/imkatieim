@@ -8,7 +8,7 @@ const Cortez1972 = () => (
 
 export default {
   id: 'Cortez1972',
-  shoeName: 'Cortez1972',
+  shoeName: 'Cortez 1972',
   shoeImage: <Cortez1972 />,
   shoeDescription:
     'The Air 180 is a shoe that was designed by Nike. It was released in 2017. It is a mid-top Air Jordan shoe.',

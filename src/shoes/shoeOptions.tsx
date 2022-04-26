@@ -4,6 +4,8 @@ import airforceone1982 from './airforceone1982';
 import michaeljordandunks1984 from './michaeljordandunks1984';
 import nikedunkhigh1985 from './nikedunkhigh1985';
 import airmaxone1987 from './airmaxone1987';
+import huarache1991 from './huarache1991';
+
 
 export const shoeOptions = [
   cortez1972,
@@ -11,5 +13,6 @@ export const shoeOptions = [
   airforceone1982,
   michaeljordandunks1984,
   nikedunkhigh1985,
-  airmaxone1987
+  airmaxone1987,
+  huarache1991
 ];
