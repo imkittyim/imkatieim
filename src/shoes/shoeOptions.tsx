@@ -8,6 +8,7 @@ import huarache1991 from './huarache1991';
 import goflyease2021 from './goflyease2021';
 import hyperadaptone2017 from './hyperadaptone2017';
 import airmax1997 from './airmax1997';
+import airmax1995 from './airmax1995';
 
 
 export const shoeOptions = [
@@ -20,5 +21,6 @@ export const shoeOptions = [
   huarache1991,
   goflyease2021,
   hyperadaptone2017,
-  airmax1997
+  airmax1997,
+  airmax1995
 ];
