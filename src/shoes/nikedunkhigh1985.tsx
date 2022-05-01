@@ -11,6 +11,6 @@ export default {
   shoeName: 'Nike Dunk High',
   shoeImage: <Nikedunkhigh1985 />,
   shoeDescription:
-    'The Air 180 is a shoe that was designed by Nike. It was released in 2017. It is a mid-top Air Jordan shoe.',
+    'The Nike Dunk was the original team shoe for colleges when they sponsored shoes for the University of Michigan, U of Kentucy, U of Iowa, Georgetown, Syracuse, St. Johns and UNLV. The campaign was called "Be True To Your Dunk" which is now known as "College Colors Program by Nike".',
   released: 1985,
 };

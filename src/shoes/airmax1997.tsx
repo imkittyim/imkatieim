@@ -11,6 +11,6 @@ export default {
   shoeName: 'Air Max 97',
   shoeImage: <Airmax1997 />,
   shoeDescription:
-    'INSERT FACTS HERE',
+    'Inspired by pond ripples and mountain bikes, Christian Tresser created the Air Max 97 with wavy upper design and metallic colors. This was the first shoe to have full-length air and hidden lacing.',
   released: 1997,
 };

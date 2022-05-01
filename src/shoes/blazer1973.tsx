@@ -8,9 +8,9 @@ const Blazer1973 = () => (
 
 export default {
   id: 'Blazer1973',
-  shoeName: 'Blazer1973',
+  shoeName: 'Blazer Sneaker',
   shoeImage: <Blazer1973 />,
   shoeDescription:
-    'The Air 180 is a shoe that was designed by Nike. It was released in 2017. It is a mid-top Air Jordan shoe.',
+    'This shoe was first worn by NBA player George Gervin aka "The Iceman". What originally started as a basketball shoe, the Blazer has now evolved into everyday streetwear.',
   released: 1973,
 };

@@ -24,7 +24,9 @@ export function Welcome() {
               color: theme.colorScheme === 'dark' ? theme.colors.pink[2] : theme.colors.dark[6],
             })}
           >
-            This will be the intro text for the site. Talking about the years, how the site works, etc.
+            Welcome! What initially started out as Blue Ribbon Sports, Nike has evolved into one of the biggest shoe powerhouses in the world. This site features some of Nike's most iconic sneakers throughout history. 
+            <br></br><br></br>
+            Click into each of the shoes to learn more with some fun facts about them. Each of the shoes are interactable so feel free to click and drag them around the page. 
           </Card>
         </div>
       </Group>

@@ -11,6 +11,6 @@ export default {
   shoeName: 'Cortez 1972',
   shoeImage: <Cortez1972 />,
   shoeDescription:
-    'The Air 180 is a shoe that was designed by Nike. It was released in 2017. It is a mid-top Air Jordan shoe.',
+    'Orginally released during the Mexico Olympics, the Cortez was the first of its time to feature foam cushioning. The pair was made famous in Forrest Gump.',
   released: 1972,
 };

@@ -11,6 +11,6 @@ export default {
   shoeName: 'Air Force 1',
   shoeImage: <Airforceone1982 />,
   shoeDescription:
-    'The Air 180 is a shoe that was designed by Nike. It was released in 2017. It is a mid-top Air Jordan shoe.',
+    'Designed by Bruce Kilgore the shoe was named after the Air Force One plane. To those based in NYC, the shoe was coined the term "Uptowns" because at the time they were only available in Harlem. ',
   released: 1982,
 };

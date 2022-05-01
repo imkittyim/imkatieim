@@ -11,6 +11,6 @@ export default {
   shoeName: 'Air Max 1',
   shoeImage: <Airmaxone1987 />,
   shoeDescription:
-    'The Air 180 is a shoe that was designed by Nike. It was released in 2017. It is a mid-top Air Jordan shoe.',
+    'The first sneaker to have the exposed Air bubble was designed by Tinker Hatfield. The inspiration was taken by the Pompidou Center in Paris.',
   released: 1987,
 };

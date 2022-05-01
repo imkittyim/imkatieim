@@ -11,6 +11,6 @@ export default {
   shoeName: 'Airmax 95',
   shoeImage: <Airmax1995 />,
   shoeDescription:
-    'INSERT.',
+    'Sergio Lozano designed this shoe in mind for powerful runners who needed maximum cushioning. The layered synthetic suede was utilized for maximum support and longevity.',
   released: 1995,
 };

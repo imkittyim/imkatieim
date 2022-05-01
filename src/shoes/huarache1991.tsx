@@ -11,6 +11,6 @@ export default {
   shoeName: 'The Original Huarache',
   shoeImage: <Huarache1991/>,
   shoeDescription:
-    'This OG model utilizes a mix of neopgrene and leather for an athleisure look. ',
+    'This OG model utilizes a mix of neopgrene and leather for an extra bounce while running while giving it an athleisure look. ',
   released: 1991,
 };
