@@ -13,6 +13,8 @@ import airpegasus1983 from './airpegasus1983';
 import airmaxninety1990 from './airmax1990';
 import airmax1990 from './airmax1990';
 import shox2000 from './shox2000';
+import roshe2012 from './roshe2012';
+import free2004 from './free2004';
 
 
 export const shoeOptions = [
@@ -29,5 +31,7 @@ export const shoeOptions = [
   airmax1995,
   airpegasus1983,
   airmax1990,
-  shox2000
+  shox2000,
+  roshe2012,
+  free2004
 ];
